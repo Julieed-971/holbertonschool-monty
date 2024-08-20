@@ -37,7 +37,7 @@ It will print an error message if the command are invalid, or if an error occur 
 
 ## Compilation command
 
-gcc -Wall -Werror -Wextra -pedantic *.c -o monty
+`gcc -Wall -Werror -Wextra -pedantic *.c -o monty`
 
 ## Mandatory Tasks
 
